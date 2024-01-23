@@ -1,7 +1,7 @@
 # Single Cell: There Can Be Only One
 
 ## Project
-This is a colab project to explore building a simple text-based application from scratch, based on a specification. It simulates a micro-ecosystem, where cells collide and the larger one consumes the smaller until only one remains. It's based on a superb tablet game called [Osmos](https://apps.apple.com/us/app/osmos-for-ipad/id379323382). You will probably have to research a bit to figure out how to build some parts.
+This is a colab project to explore building a simple text-based application from scratch, based on a specification. It simulates a micro-ecosystem, where cells collide and the larger one consumes the smaller until only one remains. It's based on a superb tablet game called [Osmos](https://apps.apple.com/us/app/osmos-for-ipad/id379323382). Think about how to organize this code. You will probably have to research a bit to figure out how to build some parts.
 
 ## Specifications
 
