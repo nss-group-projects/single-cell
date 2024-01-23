@@ -7,7 +7,7 @@ This is a colab project to explore building a simple text-based application from
 
 Create an array of strings representing the names of all the contenders.
 
-Using that array, populate an array of contender objects, each with a name and a size property, which should start as 1.
+Using that array, populate an array of contenders, each an object with properties for name and size, which should start as 1.
 
 Use a while loop to iterate as long as there's more than one contender. Each iteration, make two of the contenders battle
 - select two different contenders at random from the array
